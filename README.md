@@ -9,5 +9,5 @@ I made the website. The site has a header, menu with navigation, four sections a
 - - used transition for smooth increase of icons and pictures as links on hover.
 
 - - The mockup and demo are below.
-- [BOSE landing]
-- [DEMO LINK](https:/Marinakyrychynska.github.io/Bose_landing_page/)
+- [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
+- [DEMO LINK](https://Marinakyrychynska.github.io/Bose_landing_page/)
